@@ -31,7 +31,7 @@ Follow these instructions to get a copy of the project running on your local mac
 ### Installing
  - Clone the repository:
  ```bash
-git clone https://github.com/yourusername/flutter-expense-tracker.git
+git clone https://github.com/thisisnahiddev/flutter-expense-tracker.git
 
 ```
 - Navigate to the project directory:
